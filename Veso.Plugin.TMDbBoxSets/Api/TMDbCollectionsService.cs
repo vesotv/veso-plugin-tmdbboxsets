@@ -4,7 +4,7 @@ using MediaBrowser.Controller.Net;
 using MediaBrowser.Model.Services;
 using Microsoft.Extensions.Logging;
 
-namespace Jellyfin.Plugin.TMDbBoxSets.Api
+namespace Veso.Plugin.TMDbBoxSets.Api
 {
     [Route("/TMDbBoxSets/Refresh", "POST", Summary = "Scans all movies and creates box sets")]
     [Authenticated]

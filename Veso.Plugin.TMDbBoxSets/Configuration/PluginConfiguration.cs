@@ -1,6 +1,6 @@
 ﻿using MediaBrowser.Model.Plugins;
 
-namespace Jellyfin.Plugin.TMDbBoxSets.Configuration
+namespace Veso.Plugin.TMDbBoxSets.Configuration
 {
     public class PluginConfiguration : BasePluginConfiguration
     {

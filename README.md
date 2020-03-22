@@ -1,8 +1,8 @@
-<h1 align="center">Jellyfin TMDb Box Sets Plugin</h1>
-<h3 align="center">Part of the <a href="https://jellyfin.media">Jellyfin Project</a></h3>
+<h1 align="center">Veso TMDb Box Sets Plugin</h1>
+<h3 align="center">Part of the <a href="https://veso.media">Veso Project</a></h3>
 
 <p align="center">
-Jellyfin TMDb Box Sets plugin is a plugin built with .NET that automatically creates Box Sets/Collections based on TMDb's collection id's.
+Veso TMDb Box Sets plugin is a plugin built with .NET that automatically creates Box Sets/Collections based on TMDb's collection id's.
 
 </p>
 

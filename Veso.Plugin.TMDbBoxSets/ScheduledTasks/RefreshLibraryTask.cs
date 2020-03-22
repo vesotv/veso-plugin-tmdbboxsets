@@ -7,7 +7,7 @@ using MediaBrowser.Controller.Library;
 using MediaBrowser.Model.Tasks;
 using Microsoft.Extensions.Logging;
 
-namespace Jellyfin.Plugin.TMDbBoxSets.ScheduledTasks
+namespace Veso.Plugin.TMDbBoxSets.ScheduledTasks
 {
     public class RefreshLibraryTask : IScheduledTask
     {

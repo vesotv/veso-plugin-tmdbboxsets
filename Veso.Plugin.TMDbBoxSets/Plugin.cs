@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Jellyfin.Plugin.TMDbBoxSets.Configuration;
+using Veso.Plugin.TMDbBoxSets.Configuration;
 using MediaBrowser.Common.Configuration;
 using MediaBrowser.Common.Plugins;
 using MediaBrowser.Model.Plugins;
 using MediaBrowser.Model.Serialization;
 
-namespace Jellyfin.Plugin.TMDbBoxSets
+namespace Veso.Plugin.TMDbBoxSets
 {
     public class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     {
